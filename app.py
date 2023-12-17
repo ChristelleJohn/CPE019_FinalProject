@@ -9,6 +9,12 @@ model = tf.keras.models.load_model('cifar10_model.h5')
 
 # Streamlit app
 st.title("Image Classification App")
+st.markdown("Members:")
+st.text("Ladisla, Christelle John")
+st.text("Young, Charles Henry")
+
+
+
 
 def label_class(class_number):
     switch = {
