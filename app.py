@@ -13,7 +13,7 @@ st.markdown("Members:")
 st.text("Ladisla, Christelle John")
 st.text("Young, Charles Henry")
 st.markdown("Instructor: ")
-st.text("Engr. Richard Roman")
+st.text("Engr. Roman Richard")
 
 
 
